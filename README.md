@@ -14,7 +14,7 @@ This repository contains the implementation of a **Library Seat Monitoring Syste
 ---
 
 ## Technology Stack
-- **Programming Language**: Java
+- **Programming Language**: Java, JavaScript, HTML/CSS
 - **Hardware**: RFID reader, RFID tags
 - **Database**: MySQL, MongoDB
 - **Frameworks**: Spring Boot, Vue.js
